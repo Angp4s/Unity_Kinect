@@ -48,4 +48,4 @@ The Kinect v2 SDK installs the following software:
 -  Unity Learn Section - [Tutorials](http://unity3d.com/learn/)
 
 # Support
-Please create an [issue ticket](https://github.com/jasonrwalters/Unity_Kinect/issues) for questions and issues.  Thank you.
+Please create an [issue ticket](https://github.com/jasonrwalters/Unity_Kinect/issues).
