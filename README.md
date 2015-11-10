@@ -12,13 +12,5 @@
 2.  Body Particles - ParticleSystems spawn and follow joint positions.
 3.  Player Controller - Player horizontal input is mapped to left & right hands.
 
-# SDK Tools
-The Kinect v2 SDK installs the following software:
-
--  Kinect Studio
-  * Record and playback.  Playback can simulate a physical Kinect.
-  * Use for testing hardware features.
--   SDK Browser - Has code samples for all hardware features.
-
 # Support
 Please create an [issue ticket](https://github.com/jasonrwalters/Unity_Kinect/issues).
