@@ -18,7 +18,7 @@ This section will show you the basics of setting up your environment and running
 1.  Download and install the [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
 2.  Download and unzip the [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
 3.  Create a new project in Unity 5.
-![Screenshot](https://gbfiles.blob.core.windows.net/media/2015/05/kinect00.png)
+![Screenshot](http://gbfiles.blob.core.windows.net/media/2015/05/kinect00.png)
 
 4.  Double-click the file 'Kinect.2.0.1410.19000.unitypackage'.
 ![Screenshot](https://gbfiles.blob.core.windows.net/media/2015/05/kinect01.png)
