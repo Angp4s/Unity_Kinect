@@ -2,8 +2,8 @@
 [https://dev.windows.com/en-us/kinect](https://dev.windows.com/en-us/kinect)
 
 # Requirements
--  [Unity](http://unity3d.com)
 -  [Kinect SDK](http://www.microsoft.com/en-us/download/details.aspx?id=44561)
+-  [Unity](http://unity3d.com)
 -  [Kinect v2 Plugin for Unity](http://go.microsoft.com/fwlink/?LinkID=513177)
 -  [Visual Studio Community](http://visualstudio.com)
 
