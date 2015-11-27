@@ -12,5 +12,8 @@
 2.  Body Particles - ParticleSystems spawn and follow joint positions.
 3.  Player Controller - Player horizontal input is mapped to left & right hands.
 
+# Additional Unity Kinect Examples
+[https://github.com/jasonrwalters/Unity_Kinect_INSTINT](https://github.com/jasonrwalters/Unity_Kinect_INSTINT)
+
 # Support
 Please create an [issue ticket](https://github.com/jasonrwalters/Unity_Kinect/issues).
